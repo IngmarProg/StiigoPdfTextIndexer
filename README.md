@@ -1,4 +1,4 @@
 # StiigoPdfTextIndexer
 PDF text indexer (reverse index)
 
-Required libs: Bootstrap, Smalot PDFParser
+Required libs: Bootstrap, Smalot PDFParser, Dropzone
